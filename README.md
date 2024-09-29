@@ -37,6 +37,7 @@ This project is a Proof of Concept (POC) demonstrating how to connect a Go appli
 
    ```bash
    docker-compose exec app go run main.go
+   ```
 
-![image](https://github.com/user-attachments/assets/9eee48d5-fd68-4585-8054-fd5753dc2d26)
+![image](https://github.com/user-attachments/assets/399938d8-9416-4a37-bdf8-dbef3d67dc95)
 
