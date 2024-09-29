@@ -39,5 +39,9 @@ This project is a Proof of Concept (POC) demonstrating how to connect a Go appli
    docker-compose exec app go run main.go
    ```
 
+   ```bash
+   docker logs go-neo4j_app_1
+   ```
+
 ![image](https://github.com/user-attachments/assets/399938d8-9416-4a37-bdf8-dbef3d67dc95)
 
